@@ -19,10 +19,10 @@ user_id = 'OCbl1hXpURcGp1s8MvyDxA27P5P2'
 temp_id = '50f7fa7ab532a9538fd1386d17b016c4'
 
 # token, if public, could not fill
-token = 'eyJhbGciOiJSUzI1NiIsImtpZCI6IjI0MTE2NWVlYTAzOGFmYmZjOWE4Mjc3YmUzODJhNjQ4MTY3YzAyMGEifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vd2lvYXBwLWM3MGE4IiwibmFtZSI6IldvbmcgVGVuIiwicGljdHVyZSI6Imh0dHBzOi8vc2NvbnRlbnQueHguZmJjZG4ubmV0L3YvdDEuMC0xL3MxMDB4MTAwLzExMjIyNDYzXzEwNjg0MTIxMzAxMzA4OF8xMDgxNzE3OTQxOTcwNzM3NDk1X24uanBnP29oPTYwMzg3NmYxMTQ3MWE0YTU2YTI1NWM5NmQ3MDQxYjJiJm9lPTU4OTg4MEE3IiwiYXVkIjoid2lvYXBwLWM3MGE4IiwiYXV0aF90aW1lIjoxNDgwMzI4NTUwLCJ1c2VyX2lkIjoiT0NibDFoWHBVUmNHcDFzOE12eUR4QTI3UDVQMiIsInN1YiI6Ik9DYmwxaFhwVVJjR3AxczhNdnlEeEEyN1A1UDIiLCJpYXQiOjE0ODE3NjYwNTQsImV4cCI6MTQ4MTc2OTY1NCwiZW1haWwiOiJhd29uZzE5MDBAaG90bWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZmFjZWJvb2suY29tIjpbIjI2ODAzNjEwMzU2MDI2NCJdLCJlbWFpbCI6WyJhd29uZzE5MDBAaG90bWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJmYWNlYm9vay5jb20ifX0.WFWqPYaKVTqn68nA15g2kJ7zTq9mDGmShoHPIz3hq-6FGmqjVPx08K87Eev0x7FXYcTL_u-AT8yc69KYKvAdw8lqC5BdWGRoF5OOzSLyXIK3sVtXM9rQwqccHjrPBUadRp414-wHMNG3KcRJPa3NYJ9tdqKeIkx0kTiT32ZMbEMUvb686TiQmDrp6QthORe7ETj23NX0hrOFldLYR2oV_vOzi0UVMbsNIWHGomHHaVD4i5_UlY08W5K46XSf4Sp1NUzsc3149oQ8J2sSCIUSk5jGIVqj6pltDf0GaGFkjBwp-vc0NHF6HraYyyO59VxI2rpHahCoc9-MOITmXdOgsg'
+token = 'eyJhbGciOiJSUzI1NiIsImtpZCI6ImRiOWRiMmIwNmY4YjU0ZjZiNjRhYTM3ZjY2ODVmMzViYTRlODY1ODQifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vd2lvYXBwLWM3MGE4IiwibmFtZSI6IldvbmcgVGVuIiwicGljdHVyZSI6Imh0dHBzOi8vc2NvbnRlbnQueHguZmJjZG4ubmV0L3YvdDEuMC0xL3MxMDB4MTAwLzExMjIyNDYzXzEwNjg0MTIxMzAxMzA4OF8xMDgxNzE3OTQxOTcwNzM3NDk1X24uanBnP29oPTYwMzg3NmYxMTQ3MWE0YTU2YTI1NWM5NmQ3MDQxYjJiJm9lPTU4OTg4MEE3IiwiYXVkIjoid2lvYXBwLWM3MGE4IiwiYXV0aF90aW1lIjoxNDgwMzI4NTUwLCJ1c2VyX2lkIjoiT0NibDFoWHBVUmNHcDFzOE12eUR4QTI3UDVQMiIsInN1YiI6Ik9DYmwxaFhwVVJjR3AxczhNdnlEeEEyN1A1UDIiLCJpYXQiOjE0ODM5NDk0MTMsImV4cCI6MTQ4Mzk1MzAxMywiZW1haWwiOiJhd29uZzE5MDBAaG90bWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZmFjZWJvb2suY29tIjpbIjI2ODAzNjEwMzU2MDI2NCJdLCJlbWFpbCI6WyJhd29uZzE5MDBAaG90bWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJmYWNlYm9vay5jb20ifX0.h7RcTERqGQAC1t23Qb9oQJNl3J36298PJ57PU2O5_pljiAXSKXRTnsQH-XnL-MDgqHHd6b1q4MII16a5_wgaJAgnVpY5wedhqkUbU9_OUeizLuozEEeO7S9OLCDoDzjmU1GrygSauP1wEIB1nCKu3UyMBWbL_FuwrR6qv0B-LDYNO9zeYbQNTZ-LVTOLCVvdPVetuhNts20rFKrNU6VQvlFNotNMLLMCaohWsSxkLzuj3jw34N6KE67m8g7oWN_FiXg4jz7pmkv3_DqgkBQk1A8jE8zNM-n6BUr94XNdjKsESut2WtnjQJyc30s7cOTAYFAgzK4UUnyb8NV0IsapXg'
 
 # set to si for metric, leave blank for imperial
-units = ''
+units = 'si'
 
 # print("25°C")
 # print("---")
@@ -43,7 +43,36 @@ def get_unit():
     unit = 'F'
   return unit
   
-  
+ 
+def gen_plot():
+    import json
+    from datetime import datetime
+
+    with open('/Users/tenwong/Documents/Github/temp-io_bitbar/test_data.json') as f:
+        json_data = json.loads(f.read())
+        temps = json_data['temperatures']
+        
+    x = [datetime.strptime(temp['created_at'], '%Y-%m-%dT%H:%M:%SZ') for temp in temps]
+    y = [temp['temperature'] for temp in temps]
+
+    import matplotlib.pyplot as plt
+    # plt.style.use('dark_background')
+    plt.plot(x,y, '-')
+    # plt.fill_between(x, 0, y, color='k')
+    plt.axis([x[0], x[-1], 20, 30])
+    plt.gcf().autofmt_xdate()
+    plt.savefig('/Users/tenwong/Documents/Github/temp-io_bitbar/a.png', bbox_inches='tight')
+    return '/Users/tenwong/Documents/Github/temp-io_bitbar/a.png'
+    
+def print_plot():
+    file_name = gen_plot()
+    import base64
+    with open(file_name, "rb") as f:
+        encoded_string = base64.b64encode(f.read())
+        
+    print("---")
+    print("| image={}".format(encoded_string))
+
 def main():
     temp = get_temp()
     unit = get_unit()
@@ -56,5 +85,6 @@ def main():
         temp['name'], user_id, temp_id, token))
     print("{} | size=14".format(temp['description']))
 
+    print_plot()
 if __name__ == '__main__':
     main()
