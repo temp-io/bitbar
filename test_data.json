@@ -1,0 +1,1399 @@
+{
+  "temperatures": [
+    {
+      "created_at": "2017-01-17T10:41:58Z",
+      "temperature_f": 78.4,
+      "temperature": 25.8
+    },
+    {
+      "created_at": "2017-01-17T10:43:14Z",
+      "temperature_f": 78.8,
+      "temperature": 26
+    },
+    {
+      "created_at": "2017-01-17T10:44:30Z",
+      "temperature_f": 79,
+      "temperature": 26.1
+    },
+    {
+      "created_at": "2017-01-17T10:45:47Z",
+      "temperature_f": 79,
+      "temperature": 26.1
+    },
+    {
+      "created_at": "2017-01-17T10:47:05Z",
+      "temperature_f": 79.2,
+      "temperature": 26.2
+    },
+    {
+      "created_at": "2017-01-17T10:48:23Z",
+      "temperature_f": 79.2,
+      "temperature": 26.2
+    },
+    {
+      "created_at": "2017-01-17T10:49:41Z",
+      "temperature_f": 79.2,
+      "temperature": 26.2
+    },
+    {
+      "created_at": "2017-01-17T10:50:57Z",
+      "temperature_f": 79.2,
+      "temperature": 26.2
+    },
+    {
+      "created_at": "2017-01-17T10:52:15Z",
+      "temperature_f": 79.2,
+      "temperature": 26.2
+    },
+    {
+      "created_at": "2017-01-17T10:53:31Z",
+      "temperature_f": 79.2,
+      "temperature": 26.2
+    },
+    {
+      "created_at": "2017-01-17T10:54:49Z",
+      "temperature_f": 79.3,
+      "temperature": 26.3
+    },
+    {
+      "created_at": "2017-01-17T10:56:05Z",
+      "temperature_f": 79.3,
+      "temperature": 26.3
+    },
+    {
+      "created_at": "2017-01-17T10:57:22Z",
+      "temperature_f": 79.3,
+      "temperature": 26.3
+    },
+    {
+      "created_at": "2017-01-17T10:58:39Z",
+      "temperature_f": 79.2,
+      "temperature": 26.2
+    },
+    {
+      "created_at": "2017-01-17T11:00:08Z",
+      "temperature_f": 79,
+      "temperature": 26.1
+    },
+    {
+      "created_at": "2017-01-17T11:01:26Z",
+      "temperature_f": 79,
+      "temperature": 26.1
+    },
+    {
+      "created_at": "2017-01-17T11:02:37Z",
+      "temperature_f": 78.6,
+      "temperature": 25.9
+    },
+    {
+      "created_at": "2017-01-17T11:03:55Z",
+      "temperature_f": 78.6,
+      "temperature": 25.9
+    },
+    {
+      "created_at": "2017-01-17T11:05:18Z",
+      "temperature_f": 78.3,
+      "temperature": 25.7
+    },
+    {
+      "created_at": "2017-01-17T11:06:35Z",
+      "temperature_f": 78.1,
+      "temperature": 25.6
+    },
+    {
+      "created_at": "2017-01-17T11:07:50Z",
+      "temperature_f": 78.1,
+      "temperature": 25.6
+    },
+    {
+      "created_at": "2017-01-17T11:09:06Z",
+      "temperature_f": 77.9,
+      "temperature": 25.5
+    },
+    {
+      "created_at": "2017-01-17T11:10:23Z",
+      "temperature_f": 77.5,
+      "temperature": 25.3
+    },
+    {
+      "created_at": "2017-01-17T11:11:39Z",
+      "temperature_f": 77,
+      "temperature": 25
+    },
+    {
+      "created_at": "2017-01-17T11:12:56Z",
+      "temperature_f": 76.6,
+      "temperature": 24.8
+    },
+    {
+      "created_at": "2017-01-17T11:14:13Z",
+      "temperature_f": 77.2,
+      "temperature": 25.1
+    },
+    {
+      "created_at": "2017-01-17T11:15:31Z",
+      "temperature_f": 77,
+      "temperature": 25
+    },
+    {
+      "created_at": "2017-01-17T11:16:47Z",
+      "temperature_f": 77.2,
+      "temperature": 25.1
+    },
+    {
+      "created_at": "2017-01-17T11:44:55Z",
+      "temperature_f": 70.9,
+      "temperature": 21.6
+    },
+    {
+      "created_at": "2017-01-17T11:46:12Z",
+      "temperature_f": 72.9,
+      "temperature": 22.7
+    },
+    {
+      "created_at": "2017-01-17T11:47:29Z",
+      "temperature_f": 73,
+      "temperature": 22.8
+    },
+    {
+      "created_at": "2017-01-17T11:48:47Z",
+      "temperature_f": 72.1,
+      "temperature": 22.3
+    },
+    {
+      "created_at": "2017-01-17T11:50:07Z",
+      "temperature_f": 71.6,
+      "temperature": 22
+    },
+    {
+      "created_at": "2017-01-17T11:51:23Z",
+      "temperature_f": 71.1,
+      "temperature": 21.7
+    },
+    {
+      "created_at": "2017-01-17T11:52:39Z",
+      "temperature_f": 70.7,
+      "temperature": 21.5
+    },
+    {
+      "created_at": "2017-01-17T11:53:52Z",
+      "temperature_f": 70.5,
+      "temperature": 21.4
+    },
+    {
+      "created_at": "2017-01-17T11:55:10Z",
+      "temperature_f": 70.2,
+      "temperature": 21.2
+    },
+    {
+      "created_at": "2017-01-17T11:56:26Z",
+      "temperature_f": 69.8,
+      "temperature": 21
+    },
+    {
+      "created_at": "2017-01-17T11:57:42Z",
+      "temperature_f": 69.4,
+      "temperature": 20.8
+    },
+    {
+      "created_at": "2017-01-17T11:59:00Z",
+      "temperature_f": 69.3,
+      "temperature": 20.7
+    },
+    {
+      "created_at": "2017-01-17T12:00:15Z",
+      "temperature_f": 69.1,
+      "temperature": 20.6
+    },
+    {
+      "created_at": "2017-01-17T12:01:26Z",
+      "temperature_f": 68.9,
+      "temperature": 20.5
+    },
+    {
+      "created_at": "2017-01-17T12:02:41Z",
+      "temperature_f": 68.7,
+      "temperature": 20.4
+    },
+    {
+      "created_at": "2017-01-17T12:04:00Z",
+      "temperature_f": 68.7,
+      "temperature": 20.4
+    },
+    {
+      "created_at": "2017-01-17T12:05:21Z",
+      "temperature_f": 68.9,
+      "temperature": 20.5
+    },
+    {
+      "created_at": "2017-01-17T12:06:39Z",
+      "temperature_f": 68.5,
+      "temperature": 20.3
+    },
+    {
+      "created_at": "2017-01-17T12:07:54Z",
+      "temperature_f": 68.5,
+      "temperature": 20.3
+    },
+    {
+      "created_at": "2017-01-17T12:09:13Z",
+      "temperature_f": 68.5,
+      "temperature": 20.3
+    },
+    {
+      "created_at": "2017-01-17T12:10:30Z",
+      "temperature_f": 68.5,
+      "temperature": 20.3
+    },
+    {
+      "created_at": "2017-01-17T12:11:40Z",
+      "temperature_f": 68.4,
+      "temperature": 20.2
+    },
+    {
+      "created_at": "2017-01-17T12:12:58Z",
+      "temperature_f": 68.2,
+      "temperature": 20.1
+    },
+    {
+      "created_at": "2017-01-17T12:14:14Z",
+      "temperature_f": 68.2,
+      "temperature": 20.1
+    },
+    {
+      "created_at": "2017-01-17T12:15:30Z",
+      "temperature_f": 68.2,
+      "temperature": 20.1
+    },
+    {
+      "created_at": "2017-01-17T12:16:49Z",
+      "temperature_f": 68,
+      "temperature": 20
+    },
+    {
+      "created_at": "2017-01-17T12:18:04Z",
+      "temperature_f": 68,
+      "temperature": 20
+    },
+    {
+      "created_at": "2017-01-17T12:19:23Z",
+      "temperature_f": 68,
+      "temperature": 20
+    },
+    {
+      "created_at": "2017-01-17T12:20:39Z",
+      "temperature_f": 68,
+      "temperature": 20
+    },
+    {
+      "created_at": "2017-01-17T12:21:57Z",
+      "temperature_f": 68,
+      "temperature": 20
+    },
+    {
+      "created_at": "2017-01-17T12:23:15Z",
+      "temperature_f": 67.8,
+      "temperature": 19.9
+    },
+    {
+      "created_at": "2017-01-17T12:24:33Z",
+      "temperature_f": 67.6,
+      "temperature": 19.8
+    },
+    {
+      "created_at": "2017-01-17T12:25:51Z",
+      "temperature_f": 67.6,
+      "temperature": 19.8
+    },
+    {
+      "created_at": "2017-01-17T12:27:08Z",
+      "temperature_f": 67.6,
+      "temperature": 19.8
+    },
+    {
+      "created_at": "2017-01-17T12:28:25Z",
+      "temperature_f": 67.6,
+      "temperature": 19.8
+    },
+    {
+      "created_at": "2017-01-17T12:33:30Z",
+      "temperature_f": 67.6,
+      "temperature": 19.8
+    },
+    {
+      "created_at": "2017-01-17T12:38:38Z",
+      "temperature_f": 67.3,
+      "temperature": 19.6
+    },
+    {
+      "created_at": "2017-01-17T12:44:02Z",
+      "temperature_f": 67.3,
+      "temperature": 19.6
+    },
+    {
+      "created_at": "2017-01-17T12:49:10Z",
+      "temperature_f": 67.1,
+      "temperature": 19.5
+    },
+    {
+      "created_at": "2017-01-17T12:54:20Z",
+      "temperature_f": 66.9,
+      "temperature": 19.4
+    },
+    {
+      "created_at": "2017-01-17T12:59:28Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-17T13:04:35Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-17T13:09:42Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-17T13:14:50Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-17T13:20:02Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-17T13:25:11Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-17T13:30:21Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-17T13:35:28Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-17T13:40:53Z",
+      "temperature_f": 66.6,
+      "temperature": 19.2
+    },
+    {
+      "created_at": "2017-01-17T13:46:01Z",
+      "temperature_f": 66.6,
+      "temperature": 19.2
+    },
+    {
+      "created_at": "2017-01-17T13:51:07Z",
+      "temperature_f": 66.6,
+      "temperature": 19.2
+    },
+    {
+      "created_at": "2017-01-17T13:56:14Z",
+      "temperature_f": 66.6,
+      "temperature": 19.2
+    },
+    {
+      "created_at": "2017-01-17T14:01:28Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-17T14:06:34Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-17T14:11:40Z",
+      "temperature_f": 66.6,
+      "temperature": 19.2
+    },
+    {
+      "created_at": "2017-01-17T14:16:48Z",
+      "temperature_f": 66.4,
+      "temperature": 19.1
+    },
+    {
+      "created_at": "2017-01-17T14:21:55Z",
+      "temperature_f": 66,
+      "temperature": 18.9
+    },
+    {
+      "created_at": "2017-01-17T14:27:03Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T14:32:14Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T14:37:26Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T14:42:35Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T14:47:43Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T14:52:50Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T14:58:02Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T15:03:10Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T15:08:22Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T15:13:34Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T15:18:41Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T15:23:47Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T15:28:55Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T15:34:07Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T15:39:20Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T15:44:28Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T15:49:39Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T15:54:46Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T15:59:55Z",
+      "temperature_f": 64.9,
+      "temperature": 18.3
+    },
+    {
+      "created_at": "2017-01-17T16:05:03Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T16:10:12Z",
+      "temperature_f": 64.9,
+      "temperature": 18.3
+    },
+    {
+      "created_at": "2017-01-17T16:15:18Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T16:20:25Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T16:25:37Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T16:30:46Z",
+      "temperature_f": 64.9,
+      "temperature": 18.3
+    },
+    {
+      "created_at": "2017-01-17T16:35:58Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T16:41:16Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T16:46:24Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T16:51:31Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T16:56:41Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T17:01:49Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T17:06:58Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T17:12:08Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T17:17:21Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T17:22:33Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T17:27:41Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T17:32:54Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T17:38:08Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T17:43:25Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T17:49:02Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T17:54:16Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T17:59:23Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T18:04:37Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T18:09:50Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T18:15:00Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T18:20:13Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T18:25:21Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T18:30:29Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T18:35:35Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T18:40:43Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T18:46:06Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T18:51:15Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T18:56:43Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-17T19:01:56Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T19:07:03Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T19:12:10Z",
+      "temperature_f": 64.9,
+      "temperature": 18.3
+    },
+    {
+      "created_at": "2017-01-17T19:18:28Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T19:23:34Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T19:28:44Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T19:33:52Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T19:38:59Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T19:44:06Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T19:49:13Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T19:54:18Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T19:59:25Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T20:04:31Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T20:09:39Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T20:14:49Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T20:19:56Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T20:25:09Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T20:30:19Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T20:35:27Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T20:40:34Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T20:45:41Z",
+      "temperature_f": 64.9,
+      "temperature": 18.3
+    },
+    {
+      "created_at": "2017-01-17T20:50:49Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T20:55:57Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T21:01:10Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T21:06:48Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T21:11:59Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T21:17:07Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T21:22:14Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T21:27:26Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T21:33:02Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T21:38:10Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T21:43:17Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T21:48:24Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T21:53:48Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T21:58:56Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T22:04:03Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T22:09:28Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T22:15:04Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T22:20:11Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T22:25:23Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T22:30:30Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T22:35:37Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T22:40:43Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-17T22:45:56Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T22:51:02Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T22:56:09Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T23:01:27Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T23:06:37Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T23:11:50Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T23:16:56Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T23:22:03Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T23:27:15Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T23:32:28Z",
+      "temperature_f": 65.1,
+      "temperature": 18.4
+    },
+    {
+      "created_at": "2017-01-17T23:37:33Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T23:42:41Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T23:47:48Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T23:53:00Z",
+      "temperature_f": 65.3,
+      "temperature": 18.5
+    },
+    {
+      "created_at": "2017-01-17T23:58:08Z",
+      "temperature_f": 65.5,
+      "temperature": 18.6
+    },
+    {
+      "created_at": "2017-01-18T00:03:20Z",
+      "temperature_f": 65.7,
+      "temperature": 18.7
+    },
+    {
+      "created_at": "2017-01-18T00:08:28Z",
+      "temperature_f": 65.8,
+      "temperature": 18.8
+    },
+    {
+      "created_at": "2017-01-18T00:13:34Z",
+      "temperature_f": 65.8,
+      "temperature": 18.8
+    },
+    {
+      "created_at": "2017-01-18T00:18:42Z",
+      "temperature_f": 66,
+      "temperature": 18.9
+    },
+    {
+      "created_at": "2017-01-18T00:23:50Z",
+      "temperature_f": 66,
+      "temperature": 18.9
+    },
+    {
+      "created_at": "2017-01-18T00:28:56Z",
+      "temperature_f": 66.2,
+      "temperature": 19
+    },
+    {
+      "created_at": "2017-01-18T00:34:04Z",
+      "temperature_f": 66.4,
+      "temperature": 19.1
+    },
+    {
+      "created_at": "2017-01-18T00:39:14Z",
+      "temperature_f": 66.6,
+      "temperature": 19.2
+    },
+    {
+      "created_at": "2017-01-18T00:44:27Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-18T00:49:38Z",
+      "temperature_f": 66.9,
+      "temperature": 19.4
+    },
+    {
+      "created_at": "2017-01-18T00:54:49Z",
+      "temperature_f": 66.7,
+      "temperature": 19.3
+    },
+    {
+      "created_at": "2017-01-18T00:59:57Z",
+      "temperature_f": 66.9,
+      "temperature": 19.4
+    },
+    {
+      "created_at": "2017-01-18T01:05:04Z",
+      "temperature_f": 67.1,
+      "temperature": 19.5
+    },
+    {
+      "created_at": "2017-01-18T01:10:10Z",
+      "temperature_f": 67.3,
+      "temperature": 19.6
+    },
+    {
+      "created_at": "2017-01-18T01:15:15Z",
+      "temperature_f": 67.6,
+      "temperature": 19.8
+    },
+    {
+      "created_at": "2017-01-18T01:20:22Z",
+      "temperature_f": 67.8,
+      "temperature": 19.9
+    },
+    {
+      "created_at": "2017-01-18T01:25:30Z",
+      "temperature_f": 67.8,
+      "temperature": 19.9
+    },
+    {
+      "created_at": "2017-01-18T01:30:36Z",
+      "temperature_f": 68.2,
+      "temperature": 20.1
+    },
+    {
+      "created_at": "2017-01-18T01:35:44Z",
+      "temperature_f": 68.4,
+      "temperature": 20.2
+    },
+    {
+      "created_at": "2017-01-18T01:40:52Z",
+      "temperature_f": 68.7,
+      "temperature": 20.4
+    },
+    {
+      "created_at": "2017-01-18T01:45:58Z",
+      "temperature_f": 68.9,
+      "temperature": 20.5
+    },
+    {
+      "created_at": "2017-01-18T01:51:05Z",
+      "temperature_f": 69.3,
+      "temperature": 20.7
+    },
+    {
+      "created_at": "2017-01-18T01:56:11Z",
+      "temperature_f": 68.9,
+      "temperature": 20.5
+    },
+    {
+      "created_at": "2017-01-18T02:01:17Z",
+      "temperature_f": 68.9,
+      "temperature": 20.5
+    },
+    {
+      "created_at": "2017-01-18T02:06:23Z",
+      "temperature_f": 69.3,
+      "temperature": 20.7
+    },
+    {
+      "created_at": "2017-01-18T02:11:31Z",
+      "temperature_f": 69.8,
+      "temperature": 21
+    },
+    {
+      "created_at": "2017-01-18T02:16:37Z",
+      "temperature_f": 70,
+      "temperature": 21.1
+    },
+    {
+      "created_at": "2017-01-18T02:21:42Z",
+      "temperature_f": 70.2,
+      "temperature": 21.2
+    },
+    {
+      "created_at": "2017-01-18T02:26:49Z",
+      "temperature_f": 70.5,
+      "temperature": 21.4
+    },
+    {
+      "created_at": "2017-01-18T02:31:55Z",
+      "temperature_f": 70.9,
+      "temperature": 21.6
+    },
+    {
+      "created_at": "2017-01-18T02:37:00Z",
+      "temperature_f": 70.7,
+      "temperature": 21.5
+    },
+    {
+      "created_at": "2017-01-18T02:42:08Z",
+      "temperature_f": 70.3,
+      "temperature": 21.3
+    },
+    {
+      "created_at": "2017-01-18T02:47:15Z",
+      "temperature_f": 70.3,
+      "temperature": 21.3
+    },
+    {
+      "created_at": "2017-01-18T02:52:20Z",
+      "temperature_f": 70.3,
+      "temperature": 21.3
+    },
+    {
+      "created_at": "2017-01-18T02:57:28Z",
+      "temperature_f": 70.3,
+      "temperature": 21.3
+    },
+    {
+      "created_at": "2017-01-18T03:02:33Z",
+      "temperature_f": 71.1,
+      "temperature": 21.7
+    },
+    {
+      "created_at": "2017-01-18T03:07:40Z",
+      "temperature_f": 70.9,
+      "temperature": 21.6
+    },
+    {
+      "created_at": "2017-01-18T03:12:45Z",
+      "temperature_f": 71.1,
+      "temperature": 21.7
+    },
+    {
+      "created_at": "2017-01-18T03:19:17Z",
+      "temperature_f": 70.7,
+      "temperature": 21.5
+    },
+    {
+      "created_at": "2017-01-18T03:24:24Z",
+      "temperature_f": 70.5,
+      "temperature": 21.4
+    },
+    {
+      "created_at": "2017-01-18T03:29:33Z",
+      "temperature_f": 70.5,
+      "temperature": 21.4
+    },
+    {
+      "created_at": "2017-01-18T03:34:41Z",
+      "temperature_f": 70.3,
+      "temperature": 21.3
+    },
+    {
+      "created_at": "2017-01-18T03:39:47Z",
+      "temperature_f": 70.2,
+      "temperature": 21.2
+    },
+    {
+      "created_at": "2017-01-18T03:45:24Z",
+      "temperature_f": 70.2,
+      "temperature": 21.2
+    },
+    {
+      "created_at": "2017-01-18T03:50:36Z",
+      "temperature_f": 70.5,
+      "temperature": 21.4
+    },
+    {
+      "created_at": "2017-01-18T03:55:45Z",
+      "temperature_f": 70.9,
+      "temperature": 21.6
+    },
+    {
+      "created_at": "2017-01-18T04:01:48Z",
+      "temperature_f": 71.2,
+      "temperature": 21.8
+    },
+    {
+      "created_at": "2017-01-18T04:07:34Z",
+      "temperature_f": 72.5,
+      "temperature": 22.5
+    },
+    {
+      "created_at": "2017-01-18T04:13:58Z",
+      "temperature_f": 72.5,
+      "temperature": 22.5
+    },
+    {
+      "created_at": "2017-01-18T04:19:04Z",
+      "temperature_f": 72.3,
+      "temperature": 22.4
+    },
+    {
+      "created_at": "2017-01-18T04:24:10Z",
+      "temperature_f": 72.5,
+      "temperature": 22.5
+    },
+    {
+      "created_at": "2017-01-18T04:29:17Z",
+      "temperature_f": 72.1,
+      "temperature": 22.3
+    },
+    {
+      "created_at": "2017-01-18T04:34:27Z",
+      "temperature_f": 71.6,
+      "temperature": 22
+    },
+    {
+      "created_at": "2017-01-18T04:39:33Z",
+      "temperature_f": 71.8,
+      "temperature": 22.1
+    },
+    {
+      "created_at": "2017-01-18T04:44:44Z",
+      "temperature_f": 71.6,
+      "temperature": 22
+    },
+    {
+      "created_at": "2017-01-18T04:49:50Z",
+      "temperature_f": 71.8,
+      "temperature": 22.1
+    },
+    {
+      "created_at": "2017-01-18T04:54:58Z",
+      "temperature_f": 71.8,
+      "temperature": 22.1
+    },
+    {
+      "created_at": "2017-01-18T05:00:04Z",
+      "temperature_f": 71.4,
+      "temperature": 21.9
+    },
+    {
+      "created_at": "2017-01-18T05:05:11Z",
+      "temperature_f": 71.4,
+      "temperature": 21.9
+    },
+    {
+      "created_at": "2017-01-18T05:10:18Z",
+      "temperature_f": 71.2,
+      "temperature": 21.8
+    },
+    {
+      "created_at": "2017-01-18T05:15:26Z",
+      "temperature_f": 71.2,
+      "temperature": 21.8
+    },
+    {
+      "created_at": "2017-01-18T05:20:33Z",
+      "temperature_f": 71.4,
+      "temperature": 21.9
+    },
+    {
+      "created_at": "2017-01-18T05:25:43Z",
+      "temperature_f": 71.2,
+      "temperature": 21.8
+    },
+    {
+      "created_at": "2017-01-18T05:30:52Z",
+      "temperature_f": 70.7,
+      "temperature": 21.5
+    },
+    {
+      "created_at": "2017-01-18T05:36:00Z",
+      "temperature_f": 70.7,
+      "temperature": 21.5
+    },
+    {
+      "created_at": "2017-01-18T05:41:06Z",
+      "temperature_f": 71.1,
+      "temperature": 21.7
+    },
+    {
+      "created_at": "2017-01-18T05:46:12Z",
+      "temperature_f": 71.4,
+      "temperature": 21.9
+    },
+    {
+      "created_at": "2017-01-18T05:51:18Z",
+      "temperature_f": 71.6,
+      "temperature": 22
+    },
+    {
+      "created_at": "2017-01-18T05:56:27Z",
+      "temperature_f": 71.8,
+      "temperature": 22.1
+    },
+    {
+      "created_at": "2017-01-18T06:01:32Z",
+      "temperature_f": 71.6,
+      "temperature": 22
+    },
+    {
+      "created_at": "2017-01-18T06:06:38Z",
+      "temperature_f": 71.2,
+      "temperature": 21.8
+    },
+    {
+      "created_at": "2017-01-18T06:11:46Z",
+      "temperature_f": 71.1,
+      "temperature": 21.7
+    },
+    {
+      "created_at": "2017-01-18T06:16:54Z",
+      "temperature_f": 71.2,
+      "temperature": 21.8
+    },
+    {
+      "created_at": "2017-01-18T06:22:02Z",
+      "temperature_f": 71.4,
+      "temperature": 21.9
+    },
+    {
+      "created_at": "2017-01-18T06:27:08Z",
+      "temperature_f": 71.6,
+      "temperature": 22
+    },
+    {
+      "created_at": "2017-01-18T06:32:15Z",
+      "temperature_f": 72,
+      "temperature": 22.2
+    },
+    {
+      "created_at": "2017-01-18T06:37:21Z",
+      "temperature_f": 71.6,
+      "temperature": 22
+    },
+    {
+      "created_at": "2017-01-18T06:42:31Z",
+      "temperature_f": 71.6,
+      "temperature": 22
+    },
+    {
+      "created_at": "2017-01-18T06:47:37Z",
+      "temperature_f": 71.4,
+      "temperature": 21.9
+    },
+    {
+      "created_at": "2017-01-18T06:52:44Z",
+      "temperature_f": 71.4,
+      "temperature": 21.9
+    },
+    {
+      "created_at": "2017-01-18T06:57:50Z",
+      "temperature_f": 71.1,
+      "temperature": 21.7
+    },
+    {
+      "created_at": "2017-01-18T07:02:55Z",
+      "temperature_f": 71.1,
+      "temperature": 21.7
+    },
+    {
+      "created_at": "2017-01-18T07:08:02Z",
+      "temperature_f": 70.9,
+      "temperature": 21.6
+    }
+  ]
+}
